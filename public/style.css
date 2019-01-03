@@ -3,8 +3,8 @@
 body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
-	color: #222;
-	background-color: #ECF0F1;
+	color: #CB8B5A;
+	background-color: #1d1d1b;
 	text-align: center;
 }
 
@@ -46,9 +46,10 @@ input#button {
   width: 60%;
   min-width: 400px;
 }
-/****** Logo Div Styling ******/
-
-img {
-	margin: 20px auto 0 auto;
-	display: block;
+a{
+color: #fff;
+text-decoration: none;
+}
+a:hover{
+color: #CB8B5A;
 }
