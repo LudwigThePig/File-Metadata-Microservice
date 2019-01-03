@@ -12,3 +12,6 @@
 
 ### Sources:
 * Learn more about [multer](https://www.npmjs.com/package/multer) npm package.
+
+## Demo
+[Click here to see it in action](https://royal-tangerine.glitch.me/)
